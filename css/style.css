@@ -1,0 +1,77 @@
+.persona{
+    padding-top: 200px;
+    margin-left: 300px;
+}
+
+
+.github{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.intro{
+    margin-top: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.academico{
+    margin-top: 50px;
+    margin-left: 170px;
+}
+
+.logo_uni{
+    margin-top: 265px;
+    margin-left: 852px;
+}
+
+.carrusel{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
+.cer{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.itca{
+    padding-bottom: 30px;
+}
+
+.acordeon{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.acordeon1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.porta{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+.ti_cen{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.letra_h5{
+    padding-top: 25px;
+}
+
+.nombre{
+    text-align: center;
+}
